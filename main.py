@@ -22,6 +22,7 @@ def compGuess(number):
                 high = start
 
             start = int((high+low)/2)
+            print("test")
 
 
 
